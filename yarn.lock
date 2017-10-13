@@ -1800,6 +1800,10 @@ pify@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/pify/-/pify-2.3.0.tgz#ed141a6ac043a849ea588498e7dca8b15330e90c"
 
+pngjs2@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/pngjs2/-/pngjs2-2.0.0.tgz#de1d3c9bd655645375e8c501615f7698309b58db"
+
 prepend-http@^1.0.1:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-1.0.4.tgz#d4f4562b0ce3696e41ac52d0e002e57a635dc6dc"

@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "express": "^4.15.4",
-    "node-fetch": "^1.7.3"
+    "node-fetch": "^1.7.3",
+    "pngjs2": "^2.0.0"
   }
 }
